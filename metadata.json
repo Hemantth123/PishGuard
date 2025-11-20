@@ -1,0 +1,5 @@
+{
+  "name": "PhishGuard ",
+  "description": "A machine-learning powered dashboard to detect, analyze, and explain fake or malicious emails.",
+  "requestFramePermissions": []
+}
